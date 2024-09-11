@@ -43,6 +43,23 @@ I formatted the data for clarity and consistency for our Asian stakeholders. I c
 
 I build pivot tables in order to have an overall look at the coffee orders data then build a excel dahsboard.
 
+## Sales Trends to Pay Attention
+1- The Top 3 Countries by Sales are United State, Ireland and United Kingdom.
+
+2- The top 5 Customers are: Lacee Tanti, Elysee Sketch, Price Romera, Brenn Dundredge, Ailey Brash.
+
+3- The Excelsa coffee type sales in average is high at the period of Decemeber-January and April-May.
+
+4- The Arabica coffee type sales in average is high at the period of November-Decemeber.
+
+5- The Liberica coffee type sales in average is high at the period of January-Feburary.
+
+6- The sales is higher from Customers with Loyalty card.
+
+7- The sales is higher from the size of 2.5 kg
+
+
+
 
 ## Recommendations
 
@@ -54,7 +71,8 @@ I build pivot tables in order to have an overall look at the coffee orders data 
 
 4- Encourage Loyalty Card Use: Promote loyalty card adoption to boost customer retention and repeat purchases.
 
-4- Stay Agile: Continuously monitor sales trends and adapt strategies accordingly to remain competitive in the market.
+5- Stay Agile: Continuously monitor sales trends and adapt strategies accordingly to remain competitive in the market.
+
 
 
 
